@@ -2,6 +2,7 @@
 
 # cypress videos
 /cypress/videos/*
+/cypress/screenshots/*
 
 # dependencies
 /node_modules
